@@ -44,7 +44,7 @@ config = {
     // When running Ghost in the wild, use the production environment
     // Configure your URL and mail settings here
     production: {
-        url: 'http://piro.azurewebsites.net',
+        url: 'http://piro.azurewebsites.net/',
         mail: {},
         database: {
             client: 'sqlite3',
